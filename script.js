@@ -16,9 +16,5 @@ myName.style.top = "35%"
 myName.style.left = "40%"
 
 
-
-
-
-
 });
 
