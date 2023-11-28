@@ -11,7 +11,12 @@ myName.addEventListener("click", () => {
 
 myName.style.color = "red";
 myName.style.fontSize = "4em";
-myName.style.textAlign = "center"
+myName.style.position = "absolute"
+myName.style.top = "35%"
+myName.style.left = "40%"
+
+
+
 
 
 
